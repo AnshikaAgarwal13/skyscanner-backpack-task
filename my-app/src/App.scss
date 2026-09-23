@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+
+  &__header {
+    padding: 48px 24px;
+    background-color: #00a698;
+    color: white;
+  }
+
+  &__header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  &__main {
+    padding: 40px 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  &__heading {
+    margin-bottom: 16px;
+  }
+
+  &__text {
+    margin-bottom: 16px;
+  }
+}
